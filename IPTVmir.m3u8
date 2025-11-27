@@ -16,7 +16,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Общественные",Время HD
-https://cdn2.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
